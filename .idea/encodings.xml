@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/cq/_11_Thread_Create/TestThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cq/_11_Thread_Create/ThreadPoolManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cq/_14_socket/tcp/socket/TestInetAddress.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cq/_14_socket/tcp/socket/TestSocket.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
