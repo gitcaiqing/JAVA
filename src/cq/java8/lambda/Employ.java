@@ -2,9 +2,9 @@ package cq.java8.lambda;
 
 public class Employ {
 	
-	private Integer age;
-	private Double salary;
-	private String name;
+	private Integer age; //年龄
+	private Double salary; //工资
+	private String name; //姓名
 	
 	public Employ() {
 		super();
